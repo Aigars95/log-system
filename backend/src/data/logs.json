@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1761767559501,
+    "owner": "Alice Johnson",
+    "text": "Initial setup of the project completed",
+    "createdAt": "2025-10-29T19:52:39.501Z",
+    "updatedAt": "2025-10-29T19:52:39.501Z"
+  },
+  {
+    "id": 1761767559502,
+    "owner": "Bob Smith",
+    "text": "Reviewed code and added documentation",
+    "createdAt": "2025-10-29T19:52:39.502Z",
+    "updatedAt": "2025-10-29T19:52:39.502Z"
+  },
+  {
+    "id": 1761767559503,
+    "owner": "Charlie Davis",
+    "text": "Fixed login validation issue",
+    "createdAt": "2025-10-29T19:52:39.503Z",
+    "updatedAt": "2025-10-29T19:52:39.503Z"
+  },
+  {
+    "id": 1761767559504,
+    "owner": "Diana King",
+    "text": "Updated UI components for dashboard",
+    "createdAt": "2025-10-29T19:52:39.504Z",
+    "updatedAt": "2025-10-29T19:52:39.504Z"
+  },
+  {
+    "id": 1761767559505,
+    "owner": "Ethan Brown",
+    "text": "Integrated API for weather data",
+    "createdAt": "2025-10-29T19:52:39.505Z",
+    "updatedAt": "2025-10-29T19:52:39.505Z"
+  },
+  {
+    "id": 1761767559506,
+    "owner": "Fiona Green",
+    "text": "Added tests for user registration module",
+    "createdAt": "2025-10-29T19:52:39.506Z",
+    "updatedAt": "2025-10-29T19:52:39.506Z"
+  },
+  {
+    "id": 1761767559507,
+    "owner": "George Hill",
+    "text": "Refactored authentication logic",
+    "createdAt": "2025-10-29T19:52:39.507Z",
+    "updatedAt": "2025-10-29T19:52:39.507Z"
+  },
+  {
+    "id": 1761767559508,
+    "owner": "Hannah Lee",
+    "text": "Deployed new version to staging server",
+    "createdAt": "2025-10-29T19:52:39.508Z",
+    "updatedAt": "2025-10-29T19:52:39.508Z"
+  },
+  {
+    "id": 1761767559509,
+    "owner": "Ian Moore",
+    "text": "Optimized database queries",
+    "createdAt": "2025-10-29T19:52:39.509Z",
+    "updatedAt": "2025-10-29T19:52:39.509Z"
+  },
+  {
+    "id": 1761767559510,
+    "owner": "Julia Nelson",
+    "text": "Created mock data for testing environment",
+    "createdAt": "2025-10-29T19:52:39.510Z",
+    "updatedAt": "2025-10-29T19:52:39.510Z"
+  },
+  {
+    "id": 1761767559511,
+    "owner": "Kevin Olson",
+    "text": "Updated readme with latest API changes",
+    "createdAt": "2025-10-29T19:52:39.511Z",
+    "updatedAt": "2025-10-29T19:52:39.511Z"
+  },
+  {
+    "id": 1761767559512,
+    "owner": "Laura Perez",
+    "text": "Fixed styling issues on mobile layout",
+    "createdAt": "2025-10-29T19:52:39.512Z",
+    "updatedAt": "2025-10-29T19:52:39.512Z"
+  },
+  {
+    "id": 1761767559513,
+    "owner": "Michael Quinn",
+    "text": "Implemented dark mode feature",
+    "createdAt": "2025-10-29T19:52:39.513Z",
+    "updatedAt": "2025-10-29T19:52:39.513Z"
+  },
+  {
+    "id": 1761767559514,
+    "owner": "Natalie Rogers",
+    "text": "Fixed bug in notification system",
+    "createdAt": "2025-10-29T19:52:39.514Z",
+    "updatedAt": "2025-10-29T19:52:39.514Z"
+  },
+  {
+    "id": 1761767559515,
+    "owner": "Oscar Turner",
+    "text": "Reviewed pull request #42 and approved",
+    "createdAt": "2025-10-29T19:52:39.515Z",
+    "updatedAt": "2025-10-29T19:52:39.515Z"
+  }
+]
