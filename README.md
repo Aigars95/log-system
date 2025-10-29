@@ -15,12 +15,12 @@
 
 ## 📸 Screenshots   
 
-```
-![Desktop Table View](./frontend/public/screenshot-deskctop.png?raw=true)
-![Mobile Card View](./frontend/public/screenshot-mobile.png?raw=true)
-```
+### 🖥️ Desktop Table View
+![Desktop Table View](./frontend/public/screenshot-desktop.png?raw=true)
 
----
+
+### 📱 Mobile Card View
+![Mobile Card View](./frontend/public/screenshot-mobile.png?raw=true)
 
 ## ⚙️ Tech Stack
 
