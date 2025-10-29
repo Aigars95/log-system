@@ -1,0 +1,24 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+dist/
+.env
+
+# Frontend (Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend
+backend/node_modules/
+backend/dist/
+backend/.env
+
+# IDE (JetBrains)
+.idea/
+.shelf/
+workspace.xml
+/httpRequests/
