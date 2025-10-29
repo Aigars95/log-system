@@ -16,11 +16,13 @@
 ## 📸 Screenshots   
 
 ### 🖥️ Desktop Table View
-![Desktop Table View](./frontend/public/screenshot-desktop.png?raw=true)
+ <img src="https://raw.githubusercontent.com/Aigars95/log-system/refs/heads/main/frontend/public/screenshot-deskctop.png" alt="Desktop Table View" width="60%" />
+
 
 
 ### 📱 Mobile Card View
-![Mobile Card View](./frontend/public/screenshot-mobile.png?raw=true)
+
+  <img src="https://raw.githubusercontent.com/Aigars95/log-system/refs/heads/main/frontend/public/screeshot-mobile.png" alt="Mobile Card View" width="20%" />
 
 ## ⚙️ Tech Stack
 
