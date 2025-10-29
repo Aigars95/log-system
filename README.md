@@ -16,8 +16,8 @@
 ## 📸 Screenshots   
 
 ```
-![Desktop Table View](./frontend/public/screenshot-deskctop.png)
-![Mobile Card View](./frontend/public/screeshot-mobile.png)
+![Desktop Table View](./frontend/public/screenshot-deskctop.png?raw=true)
+![Mobile Card View](./frontend/public/screeshot-mobile.png?raw=true)
 ```
 
 ---
