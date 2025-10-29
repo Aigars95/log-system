@@ -16,8 +16,10 @@
 ## 📸 Screenshots   
 
 ```
-![Desktop Table View](./frontend/public/screenshot-deskctop.png?raw=true)
-![Mobile Card View](./frontend/public/screeshot-mobile.png?raw=true)
+<p align="center">
+  <img src="./frontend/public/screenshot-desktop.png?raw=true" alt="Desktop Table View" width="48%" />
+  <img src="./frontend/public/screenshot-mobile.png?raw=true" alt="Mobile Card View" width="48%" />
+</p>
 ```
 
 ---
