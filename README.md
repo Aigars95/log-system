@@ -6,12 +6,18 @@
 
 ---
 
-## 📸 Screenshots  
-_Add screenshots of your UI below:_  
+## 🌍 Live Demo
+
+- **Frontend (Vercel):** [https://log-system-rho.vercel.app](https://log-system-rho.vercel.app)
+- **Backend (Render):** [https://log-system-vv1g.onrender.com](https://log-system-vv1g.onrender.com)
+
+---
+
+## 📸 Screenshots   
 
 ```
-![Desktop Table View]()
-![Mobile Card View]()
+![Desktop Table View](./frontend/public/screenshot-deskctop.png?raw=true)
+![Mobile Card View](./frontend/public/screenshot-mobile.png?raw=true)
 ```
 
 ---
